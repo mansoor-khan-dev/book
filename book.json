@@ -1,0 +1,45 @@
+{
+	"gitbook": "3.2.3",
+	"plugins": [
+		"fontsettings",
+		"lunr",
+		"theme-hqbook"
+	],
+    "variables": {
+        "themeHqbook":{
+            "nav":[
+                {
+                    "url": "https://gitbook.prestage.jiomeet.com/",
+                    "target": "_blank",
+                    "name": "JioMeet"
+                }
+            ]
+        }
+    },
+    "pluginsConfig": {
+        "theme-hqbook":{
+            "favicon": "https://prestage.jiomeet.com/assets/images/favicon.ico",
+            "logo":"https://prestage.jiomeet.com/assets/img/logo/jm-logo-blue.svg",
+            "search-placeholder":"Search Here",
+			      "copyButtons": true,
+			      "copyLines": true,
+			      "dragSplitter": true,
+            "hide-elements": [
+                ".summary .gitbook-link"
+            ],
+            "flexible-linkcard": {
+                "title": "flexible-linkcard",
+                "hrefUrl": "https://github.com/HaoqiangChen/gitbook-plugin-flexible-linkcard",
+                "target": "_blank",
+                "imgSrc": "https://prestage.jiomeet.com/assets/img/logo/jm-logo-blue.svg",
+                "imgClass": "rect"
+            }
+        },
+        "theme-fexa": {
+            "search-placeholder": "Seach..",
+            "logo": "https://jiomeetdev.jiomeet.com/assets/img/logo/jm-logo-blue.svg",
+            "favicon": "https://jiomeetdev.jiomeet.com/assets/images/favicon.ico"
+        }
+    },
+	"title": ""
+}
