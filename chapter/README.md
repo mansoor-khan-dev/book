@@ -1,15 +1,8 @@
 # Chapter
 
- - [one](chapter/one.)
- - two
- - three
- - four
- - five
- - six
- - seven
- - eight
- - nine
+ - [one](chapter/one.md)
+ - [two](chapter/two.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTUyMDI4OF19
+eyJoaXN0b3J5IjpbMzc0NDg4NzIyXX0=
 -->
