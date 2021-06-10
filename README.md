@@ -1,6 +1,6 @@
 ---
 
-description:  >-
+description:
 
 Welcome! Here you can find all the documentation about Rocket.Chat server and
 
@@ -20,5 +20,5 @@ Our developer guides and APIs have a home of their own now. Please find them [he
 
 {% page-ref page="contributors/google-summer-of-code/google-summer-of-code-2021.md" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkyNzk0NTNdfQ==
+eyJoaXN0b3J5IjpbMTQ0NTcxOTQxMF19
 -->
