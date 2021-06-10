@@ -1,8 +1,9 @@
 # JioMeet Documentation
 
-Our developer guides and APIs have a home of their own now............. jails. Get the hell
+Our developer guides and APIs have a home of their own now.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc2MDk1ODksLTEzNDAxNDMwNTMsMj
-AzNzgzNDM3MCwtMTYyODU4NjAzNiw0NDgzNDcxNjIsMzAyMzMz
-MDA0LDQzNjE3MDIwMl19
+eyJoaXN0b3J5IjpbMTQwMzQwNjY2LC0yMDc3NjA5NTg5LC0xMz
+QwMTQzMDUzLDIwMzc4MzQzNzAsLTE2Mjg1ODYwMzYsNDQ4MzQ3
+MTYyLDMwMjMzMzAwNCw0MzYxNzAyMDJdfQ==
 -->
