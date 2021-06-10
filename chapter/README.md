@@ -1,8 +1,8 @@
 # Chapter
 
- - [one](demo/chapter/one.md)
- - [two](demo/chapter/two.md)
+ - [one](chapter/one.md)
+ - [two](chapter/two.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2OTMwMDBdfQ==
+eyJoaXN0b3J5IjpbMzc0NDg4NzIyXX0=
 -->
