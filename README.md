@@ -6,7 +6,7 @@ description:-> Welcome! Here you can find all the documentation about Rocket.Cha
 
   
 
-# Rocket.Chat Documentation
+# JioMeet Documentation
 
   
 
@@ -16,5 +16,5 @@ Our developer guides and APIs have a home of their own now. Please find them [he
 
 {% page-ref page="contributors/google-summer-of-code/google-summer-of-code-2021.md" %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc1ODU2MTFdfQ==
+eyJoaXN0b3J5IjpbMjA2NDc3Mjg0OCwtMTEyNzU4NTYxMV19
 -->
